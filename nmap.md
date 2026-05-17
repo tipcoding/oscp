@@ -1,7 +1,9 @@
-```IP="10.129.227.181"
+```
+IP="10.129.227.181"
 nmap -sC -sV $IP -oN nmap.txt
 nmap -p- -sS -T4 --open $IP -oN qFports.txt
-sudo nmap -sU -p- -Pn --min-rate 10000 -oA alludp $IP```
+sudo nmap -sU -p- -Pn --min-rate 10000 -oA alludp $IP
+```
 
 nmap -p- --min-rate 4000 192.168.175.61 
 

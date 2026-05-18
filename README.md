@@ -8,4 +8,4 @@ https://oscp.cdcyber.org
 # 1. Tổng hợp các ghi chú hay về OSCP
 https://github.com/ferreirasc/OSCP_study_guide (có thể tìm thêm trên github)  
 https://github.com/cpardue/OSCP-PWK-Notes-Public<br>
->>>>>>> d2b2954961e1bc08fe28d0e8e928c8b8d0a2d0d7
+

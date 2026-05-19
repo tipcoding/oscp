@@ -4,6 +4,8 @@ Vì sự phức tạp và bao trùm kiến thức rộng, nên một người kh
 Các bạn có thể bình luận, góp ý, hỏi đáp thêm ở trong diễn đàn này: 
 https://www.facebook.com/groups/oscptrain
 https://oscp.cdcyber.org
+# 0. Platform de thuc hanh thuc chien:
+https://referral.hackthebox.com/mzACw1n
 
 # 1. Tổng hợp các ghi chú hay về OSCP
 https://github.com/ferreirasc/OSCP_study_guide (có thể tìm thêm trên github)  

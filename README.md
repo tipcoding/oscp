@@ -4,6 +4,7 @@ Vì sự phức tạp và bao trùm kiến thức rộng, nên một người kh
 Các bạn có thể bình luận, góp ý, hỏi đáp thêm ở trong diễn đàn này: 
 <li>https://www.facebook.com/groups/oscptrain</li>
 <li>https://oscp.cdcyber.org</li>
+
 # 0. Platform de thuc hanh thuc chien:
 https://referral.hackthebox.com/mzACw1n
 

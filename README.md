@@ -8,12 +8,12 @@ Các bạn có thể bình luận, góp ý, hỏi đáp thêm ở trong diễn �
 https://referral.hackthebox.com/mzACw1n
 
 # 1. Tổng hợp danh sách bài lab cần làm trước khi
-Lainkusanagi OSCP Like: https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/</br>
-NetSecTropy : https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#</br>
-Mindmap cho các bài lab Active Directory: https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg</br>
-Các bài lab phải thực hành trên hệ thống Offsec:https://portal.offsec.com/labs/practice-2</br>
+<li>Lainkusanagi OSCP Like: https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/</li>
+<li>NetSecTropy : https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#</li>
+<li>Mindmap cho các bài lab Active Directory: https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg</li>
+<li>Các bài lab phải thực hành trên hệ thống Offsec:https://portal.offsec.com/labs/practice-2</br>
 
 # 2. Tổng hợp các ghi chú hay về OSCP
-https://github.com/ferreirasc/OSCP_study_guide (có thể tìm thêm trên github)</br>  
-https://github.com/cpardue/OSCP-PWK-Notes-Public
+<li>https://github.com/ferreirasc/OSCP_study_guide (có thể tìm thêm trên github)</li>
+<li>https://github.com/cpardue/OSCP-PWK-Notes-Public</li>
 

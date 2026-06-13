@@ -7,7 +7,13 @@ https://oscp.cdcyber.org
 # 0. Platform de thuc hanh thuc chien:
 https://referral.hackthebox.com/mzACw1n
 
-# 1. Tổng hợp các ghi chú hay về OSCP
+# 1. Tổng hợp danh sách bài lab cần làm trước khi
+Lainkusanagi OSCP Like: https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/
+NetSecTropy : https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#
+Mindmap cho các bài lab Active Directory: https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg
+Các bài lab phải thực hành trên hệ thống Offsec:https://portal.offsec.com/labs/practice-2
+
+# 2. Tổng hợp các ghi chú hay về OSCP
 https://github.com/ferreirasc/OSCP_study_guide (có thể tìm thêm trên github)  
-https://github.com/cpardue/OSCP-PWK-Notes-Public<br>
+https://github.com/cpardue/OSCP-PWK-Notes-Public
 

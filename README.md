@@ -2,8 +2,8 @@
 Vì sự phức tạp và bao trùm kiến thức rộng, nên một người khi chưa có nền tảng kiến thức sẵn về  các hệ thống máy tính sẽ gặp rất nhiều khó khăn trong việc truy tìm câu lệnh, giải thích tại sao và làm sao để thay đổi cho nó chạy đúng khi gặp lỗi. Tài liệu này tôi tổng hợp và ghi chép lại những gì mình đã học, đã biết và những đường link tham khảo cho các bạn trẻ mới học, mới làm quen có thể tìm kiếm nhanh chóng và chính xác những gì mình muốn khi làm pentest, đặc biệt là chuẩn bị cho kỳ thi lấy chứng chỉ OSCP.
 
 Các bạn có thể bình luận, góp ý, hỏi đáp thêm ở trong diễn đàn này: 
-https://www.facebook.com/groups/oscptrain
-https://oscp.cdcyber.org
+<li>https://www.facebook.com/groups/oscptrain</li>
+<li>https://oscp.cdcyber.org</li>
 # 0. Platform de thuc hanh thuc chien:
 https://referral.hackthebox.com/mzACw1n
 
